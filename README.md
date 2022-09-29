@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yekinni01
-- 👀 I’m interested in coding for data analysis
+- 👋 Hi, I’m Yekinni Kolawole
+- 👀 I’m interested in data analysis and project management
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on coding and ready to learn
 - 📫 How to reach me via yekinni_kolawole@yahoo.com
